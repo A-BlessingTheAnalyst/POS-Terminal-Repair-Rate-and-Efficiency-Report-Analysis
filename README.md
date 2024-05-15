@@ -15,6 +15,9 @@
 
 This project aims to optimize operational performance in POS (Point of Sale) terminal repair services through data-driven analysis and strategic workforce planning. Utilizing Excel and Power BI, we conducted an in-depth examination of factors such as workdays and engineering team size to understand their impact on repair rates and work efficiency.
 
+![POS TERMINAL REPAIR ANALYSIS](https://github.com/A-BlessingTheAnalyst/POS-Terminal-Repair-Rate-and-Efficiency-Report-Analysis/assets/168881527/4468067e-2029-494e-ba50-00dc5fe53ffa)
+
+
 ## Tools Used
 
 - **Microsoft Excel**: Used for Data preprocessing, analysis, and initial visualization.
