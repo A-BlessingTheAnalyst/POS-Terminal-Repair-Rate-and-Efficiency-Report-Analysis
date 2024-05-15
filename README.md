@@ -3,9 +3,11 @@
 ## Table Of Content
 1. [Overview](#overview)
 2. [Tools Used](#tools-used)
-3. [Key Findings](#key-findings)
-4. [Implications for Strategic Workforce Planning](#implications-for-strategic-workforce-planning)
-5. [Recommendations](#recommendations)
+3. [Data Cleaning/Preparation](#data-cleaningpreparation)
+4. [Exploratory Data Analysis](#exploratory-data-analysis)
+5. [Key Findings](#key-findings)
+6. [Implications for Strategic Workforce Planning](#implications-for-strategic-workforce-planning)
+7. [Recommendations](#recommendations)
 
 
 
@@ -15,8 +17,25 @@ This project aims to optimize operational performance in POS (Point of Sale) ter
 
 ## Tools Used
 
-- **Microsoft Excel**: Used for data preprocessing, analysis, and initial visualization.
+- **Microsoft Excel**: Used for Data preprocessing, analysis, and initial visualization.
 - **Power BI**: Employed for creating in-depth visualizations, interactive dashboards, and data-driven storytelling.
+
+## Data Cleaning/Preparation
+
+In the initial data preparation phase, we performed the following tasks:
+- Data loading and inspection
+- Spell checking
+- Correcting misspelt values.
+- Removal of empty rows.
+- Removal of duplicated values.
+- Handling missing values.
+- Data cleaning and formatting.
+
+## Exploratory Data Analysis
+
+- Does increasing the number of workdays improve POS terminal repair rates and work efficiency?
+- How does the size of the engineering team affect repair rates?
+- Does an increase in engineering staff lead to an improvement in the overall work rate?
 
 
 ## Key Findings
