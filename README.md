@@ -2,20 +2,22 @@
 
 ## Table Of Content
 1. [Overview](#overview)
-2. [Key Findings](#key-findings)
-3. [Implications for Strategic Workforce Planning](#implications-for-strategic-workforce-planning)
-4. [Recommendations](#recommendations)
-5. [Tools Used](#tools-used)
-6. [Contributors](#contributors)
-7. [Repository Structure](#repository-structure)
-8. [Acknowledgments](#acknowledgments)
-9. [Feedback and Collaboration](#feedback-and-collaboration)
-10. [Contact Information](#contact-information)
-11. [Note](#note)
+2. [Tools Used](#tools-used)
+3. [Key Findings](#key-findings)
+4. [Implications for Strategic Workforce Planning](#implications-for-strategic-workforce-planning)
+5. [Recommendations](#recommendations)
+
+
 
 ## Overview
 
 This project aims to optimize operational performance in POS (Point of Sale) terminal repair services through data-driven analysis and strategic workforce planning. Utilizing Excel and Power BI, we conducted an in-depth examination of factors such as workdays and engineering team size to understand their impact on repair rates and work efficiency.
+
+## Tools Used
+
+- **Microsoft Excel**: Used for data preprocessing, analysis, and initial visualization.
+- **Power BI**: Employed for creating in-depth visualizations, interactive dashboards, and data-driven storytelling.
+
 
 ## Key Findings
 
@@ -33,10 +35,6 @@ These findings highlight the importance of strategic workforce planning. Rather 
 - Investigate other factors affecting work efficiency to identify improvement areas beyond staffing levels.
 - Implement ongoing monitoring of repair rates and work efficiency, adapting workforce planning strategies as needed.
 
-## Tools Used
-
-- **Microsoft Excel**: Used for data preprocessing, analysis, and initial visualization.
-- **Power BI**: Employed for creating in-depth visualizations, interactive dashboards, and data-driven storytelling.
 
 ## Contributors
 
